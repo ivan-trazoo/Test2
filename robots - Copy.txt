@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /new/
+Disallow: /cgi-bin/
+Disallow: /thank-you/
